@@ -1,0 +1,5 @@
+﻿  A_3.cpp
+g:\a_3\a_3\a_3.cpp(161): warning C4018: <: несоответствие типов со знаком и без знака
+g:\a_3\a_3\a_3.cpp(162): warning C4018: <: несоответствие типов со знаком и без знака
+  A_3.vcxproj -> G:\A_3\Debug\A_3.exe
+  A_3.vcxproj -> G:\A_3\Debug\A_3.pdb (Full PDB)
